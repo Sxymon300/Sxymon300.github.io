@@ -1,3 +1,5 @@
 # Sxymon300.github.io
 
-Szymon 
+# Szymon
+
+**strona jest moja**
